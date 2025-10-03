@@ -1,0 +1,50 @@
+body {
+    background-color: black
+}
+
+#first {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: -100px;
+}
+
+
+#Baskerville {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 600px;
+  font-style: large;
+}
+
+#crianca {
+    border: 5px solid orange;
+    width: 100%;
+    height: 500px;
+}
+
+p {
+    color: white;
+    text-align: center;
+    font-size: large;
+    position: relative;
+    top: 630px;
+    width: 100%;
+    margin-left: 3%;
+    text-transform: uppercase;
+}
+
+h1 {
+    color: white;
+    font-size: 40pt;
+    position: relative;
+    top: 655px;
+    width: 100%;
+    margin-left: 18%;
+    text-transform: uppercase;
+}
+
+#coco1 {
+    width: 100px;
+    height: 100px;
+    margin-left: 50%;
+    margin-top: 10%;
+}
